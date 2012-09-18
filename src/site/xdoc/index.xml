@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<properties>
+		<title>Module CRM MyLutece Database</title>
+	</properties>
+	<body>
+		<section name="Plugin Social Hub">
+			<subsection name="Introduction">
+				<p>
+					This module is used to manage CRM Users associated to MyLutece Database users.
+				</p>
+			</subsection>
+		</section>
+	</body>
+</document>
